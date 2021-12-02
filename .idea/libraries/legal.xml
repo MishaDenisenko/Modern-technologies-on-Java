@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="legal">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jdk-17.0.1/legal" recursive="false" type="SOURCES" />
+  </library>
+</component>
